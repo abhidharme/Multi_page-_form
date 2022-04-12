@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "abhi",
+      "age": "65",
+      "date_of_birth": "2022-03-29",
+      "state_of_residence": "jhgu",
+      "address": "At Post Bordi Ta-Akot , Dist-Akola",
+      "pin_code": "444101",
+      "id": 1
+    },
+    {
+      "name": "jay",
+      "age": "26",
+      "date_of_birth": "1995-06-07",
+      "state_of_residence": "goa",
+      "address": "pune",
+      "pin_code": "444101",
+      "id": 2
+    },
+    {
+      "name": "mayur",
+      "age": "21",
+      "date_of_birth": "2001-05-29",
+      "state_of_residence": "Bihar",
+      "address": "Patana",
+      "pin_code": "536721",
+      "id": 3
+    },
+    {
+      "name": "om",
+      "age": "18",
+      "date_of_birth": "2004-06-05",
+      "state_of_residence": "Delhi",
+      "address": "new delhi",
+      "pin_code": "987989",
+      "id": 4
+    },
+    {
+      "name": "pramod",
+      "age": "55",
+      "date_of_birth": "1966-06-29",
+      "state_of_residence": "keral",
+      "address": "bengluru",
+      "pin_code": "98087",
+      "id": 5
+    }
+  ]
+}
